@@ -30,7 +30,7 @@ app.post("/api/email", (req, res, next) => {
     "sendgridapikey"
   );
   const msg = {
-    to: "michael.shamburger@gmail.com",
+    to: "email",
     from: req.body.email,
     subject: "LCWD Contact",
     text: req.body.message,
