@@ -24,7 +24,9 @@ const Services = () => {
           <ServicesCard>
             <ServicesIcon src={IconTSS} />
             <ServicesH2>The Stiff Shaft</ServicesH2>
-            <ServicesP>Golf blog designed in WordPress with plugins.</ServicesP>
+            <ServicesP>
+              Golf blog designed in WordPress with plugins and more.
+            </ServicesP>
           </ServicesCard>
           <ServicesCard>
             <ServicesIcon src={IconBSI} />
