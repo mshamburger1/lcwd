@@ -14,7 +14,7 @@ const ContactMePage = () => {
   return (
     <div>
       <ScrollToTop />
-      <Sidebar isOpen={isOpen} toggle={toggle} />
+      <Sidebar2 isOpen={isOpen} toggle={toggle} />
       <Navbar2 toggle={toggle} />
       <ContactMe />
     </div>
