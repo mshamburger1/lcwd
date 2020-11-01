@@ -32,7 +32,7 @@ const Services = () => {
             <ServicesIcon src={IconBSI} />
             <ServicesH2>Big South Inflatables</ServicesH2>
             <ServicesP>
-              Inflatable bounce houses developed entirely in WordPress.
+              Inflatable bounce house site developed entirely in WordPress.
             </ServicesP>
           </ServicesCard>
           <ServicesCard>
