@@ -84,21 +84,21 @@ const Footer = () => {
             </WebsiteRights>
             <SocialIcons>
               <SocialIconLink
-                href="//www.facebook/MichaelShamburerGOLF"
+                href="https://www.facebook.com/MichaelShamburgerGOLF"
                 target="_blank"
                 aria-label="Facebook"
               >
                 <FaFacebook />
               </SocialIconLink>
               <SocialIconLink
-                href="//www.twitter.com/mshamburger1"
+                href="https://www.twitter.com/mshamburger1"
                 target="_blank"
                 aria-label="Twitter"
               >
                 <FaTwitter />
               </SocialIconLink>
               <SocialIconLink
-                href="//www.linkedin.com/in/michael-shamburger/"
+                href="https://www.linkedin.com/in/michael-shamburger/"
                 target="_blank"
                 aria-label="Linkedin"
               >
