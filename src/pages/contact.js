@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Navbar2 from "../components/Navbar2";
 import ScrollToTop from "../components/ScrollToTop";
-import Sidebar from "../components/Sidebar";
+import Sidebar from "../components/Sidebar2";
 import ContactMe from "../components/Contact/new";
 
 const ContactMePage = () => {
