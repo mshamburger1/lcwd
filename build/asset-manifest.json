@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dev.lakecharleswebdesign.com/static/css/main.bbde1e89.chunk.css",
+    "main.js": "/dev.lakecharleswebdesign.com/static/js/main.2b0e9825.chunk.js",
+    "main.js.map": "/dev.lakecharleswebdesign.com/static/js/main.2b0e9825.chunk.js.map",
+    "runtime-main.js": "/dev.lakecharleswebdesign.com/static/js/runtime-main.735b878b.js",
+    "runtime-main.js.map": "/dev.lakecharleswebdesign.com/static/js/runtime-main.735b878b.js.map",
+    "static/js/2.e51edff6.chunk.js": "/dev.lakecharleswebdesign.com/static/js/2.e51edff6.chunk.js",
+    "static/js/2.e51edff6.chunk.js.map": "/dev.lakecharleswebdesign.com/static/js/2.e51edff6.chunk.js.map",
+    "index.html": "/dev.lakecharleswebdesign.com/index.html",
+    "static/css/main.bbde1e89.chunk.css.map": "/dev.lakecharleswebdesign.com/static/css/main.bbde1e89.chunk.css.map",
+    "static/js/2.e51edff6.chunk.js.LICENSE.txt": "/dev.lakecharleswebdesign.com/static/js/2.e51edff6.chunk.js.LICENSE.txt",
+    "static/media/BSI.e57b85ce.png": "/dev.lakecharleswebdesign.com/static/media/BSI.e57b85ce.png",
+    "static/media/HD.96a2a86b.png": "/dev.lakecharleswebdesign.com/static/media/HD.96a2a86b.png",
+    "static/media/TSS.fec7def8.png": "/dev.lakecharleswebdesign.com/static/media/TSS.fec7def8.png",
+    "static/media/WW.cdeac2a9.png": "/dev.lakecharleswebdesign.com/static/media/WW.cdeac2a9.png",
+    "static/media/me.46db843c.jpg": "/dev.lakecharleswebdesign.com/static/media/me.46db843c.jpg",
+    "static/media/mw.bc544e32.svg": "/dev.lakecharleswebdesign.com/static/media/mw.bc544e32.svg",
+    "static/media/video.22acab75.mp4": "/dev.lakecharleswebdesign.com/static/media/video.22acab75.mp4",
+    "static/media/wwd.b6a67245.svg": "/dev.lakecharleswebdesign.com/static/media/wwd.b6a67245.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.735b878b.js",
+    "static/js/2.e51edff6.chunk.js",
+    "static/css/main.bbde1e89.chunk.css",
+    "static/js/main.2b0e9825.chunk.js"
+  ]
+}
