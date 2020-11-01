@@ -22,6 +22,14 @@ export const FormWrap = styled.div`
   @media screen and (max-width: 400px) {
     height: 80%;
   }
+
+  @media screen and (max-width: 414px) {
+    margin-top: 80px;
+  }
+
+  @media screen and (max-width: 375px) {
+    margin-top: 80px;
+  }
 `;
 
 export const Icon = styled(Link)`
@@ -52,6 +60,11 @@ export const FormContent = styled.div`
     width: 300px;
     margin-top: 20px;
   }
+  @media screen and (max-width: 414px) {
+    padding: 10px;
+    width: 400px;
+    margin-top: 20px;
+  }
 `;
 
 export const Form = styled.form`
@@ -68,6 +81,15 @@ export const Form = styled.form`
 
   @media screen and (max-width: 400px) {
     padding: 32px 32px;
+  }
+
+  @media screen and (max-width: 414px) {
+    padding-top: 20px;
+    margin-top: -80px;
+  }
+
+  @media screen and (max-width: 375px) {
+    margin-top: 20px;
   }
 `;
 
