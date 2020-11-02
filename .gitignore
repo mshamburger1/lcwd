@@ -10,7 +10,7 @@
 /coverage
 
 # production
-
+/lcwd-app
 
 # misc
 .DS_Store
