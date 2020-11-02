@@ -29,7 +29,7 @@ app.get("/api", (req, res, next) => {
 app.post("/api/email", (req, res, next) => {
   sendGrid.setApiKey(process.env.API_KEY);
   const msg = {
-    to: "michael.shamburger@gmail.com",
+    to: process.env.EMAILKEY,
     from: req.body.email,
     subject: "LCWD Contact",
     text: req.body.message,
